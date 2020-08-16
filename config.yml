@@ -33,7 +33,7 @@
 #    or double quotation marks.
 #
 # If you have problems, create an issue on GitHub:
-# https://github.com/cstate/cstate/issues
+# https://github.com/invisionmediagroups/cstatus/issues
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: cStatus Demo
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -119,7 +119,7 @@ params:
   #   Or it can be used alongside other categories.
   #
   # For help, see the wiki:
-  # https://github.com/cstate/cstate/wiki/Customization
+  # https://github.com/invisionmediagroups/cstatus/wiki/Customization
   categories:
     - name: North Coast
       description: The main servers are located here.
@@ -132,7 +132,7 @@ params:
   # change the amount of components.
   #
   # For help, see the wiki:
-  # https://github.com/cstate/cstate/wiki/Customization
+  # https://github.com/invisionmediagroups/cstatus/wiki/Customization
   systems:
     - name: Gateway
       category: North Coast
