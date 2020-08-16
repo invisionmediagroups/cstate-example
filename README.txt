@@ -1,4 +1,4 @@
-cStatus Demo: https://cstatus-demo.netlify.app
+[**cStatus Demo Site**](https://cstatus-demo.netlify.app)
 
 This is the default cStatus status page website directory/folder.
 
