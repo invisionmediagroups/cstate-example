@@ -298,7 +298,7 @@ params:
 # These options affect the core of cStatus.
 # Please do not change them if you do not
 # know what you are doing.
-theme: cstate
+theme: cstatus
 
 preserveTaxonomyNames: true
 
