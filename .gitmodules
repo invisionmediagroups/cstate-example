@@ -1,0 +1,3 @@
+[submodule "themes/cstatus"]
+	path = themes/cstatus
+	url = https://github.com/invisionmediagroups/cstatus
